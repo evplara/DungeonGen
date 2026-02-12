@@ -50,3 +50,8 @@ Type in the number of rooms in the button in the top left. Click the button to g
 ### Right click on the file made in the Content Drawer, go to "Asset Actions" and click on "Export." This will prompt you to save this file as a .fbx file and to be saved anywhere on your device.
 
 <img width="1811" height="994" alt="image" src="https://github.com/user-attachments/assets/315143d0-8d05-4ac1-8a83-d869e05435d3" />
+
+
+# Example Outputs
+
+https://drive.google.com/file/d/1s2TA3rj6p25Z5l93soFkJkoogvTZFQSA/view?usp=sharing
