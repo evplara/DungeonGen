@@ -12,6 +12,14 @@ Stops once it reaches the chosen number of rooms (or runs out of valid connectio
 
 Seals off any remaining unused doorways with door caps.
 
+# Credits
+
+### 3D Models By User PixelForgeESP on Fab
+
+Asset Link: https://www.fab.com/listings/06a642fd-6639-4831-9230-18c91cae5ec2
+
+User Link: https://www.fab.com/sellers/PixelForgeESP
+
 # How to Use
 
 ## Controls 
